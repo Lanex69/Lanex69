@@ -15,4 +15,6 @@
  
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,linux,gitlab,kali,py,powershell,notion,ps,discord,autocad,windows,vscode)](https://skillicons.dev)
 
+----- 
+
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
