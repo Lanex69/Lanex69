@@ -1,4 +1,4 @@
-[![typing svg](https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&random=false&width=435&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello-o-o!)](https://git.io/typing-svg)
 
 # hey, i'm Ahsan! 👋
 
